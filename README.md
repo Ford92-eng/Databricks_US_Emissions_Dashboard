@@ -1,5 +1,5 @@
 # Databricks_US_Emissions_Dashboard
-Databricks SQL dashboard analysing US emissions data and key trends.
+Databricks dashboard analysing US emissions data and key trends.
 
 ## Project Overview
 Created an interactive dashboard in Databricks to analyse US emissions data and identify emissions trends across states and counties.
