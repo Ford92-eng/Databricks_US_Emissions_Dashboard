@@ -1,4 +1,4 @@
-# Databricks_US_Emissions_Dashboard
+# Databricks US Emissions Dashboard
 Databricks dashboard analysing US emissions data and key trends.
 
 ## Project Overview
@@ -20,17 +20,14 @@ Created an interactive dashboard in Databricks to analyse US emissions data and 
 - Maricopa County, Arizona and Harris County, Texas were among the counties with the highest total emissions.
 - Emissions were compared with population to explore differences across the counties.
 
+## Skills Demonstrated
+- SQL querying and aggregation
+- CTEs
+- Ranking and Top 10 analysis
+- Data visualisation
+
 ## Dashboard
 Dashboard screenshot: US_Emissions_Dashboard.png
 
 ## SQL
 SQL used for the analysis is available in emissions_analysis.sql
-
-## Skills demonstrated
-- SQL querying
-- SQL aggregation
-- CTEs
-- Data preparation
-- Ranking and Top 10 analysis
-- Data visualisation
-- Databricks
